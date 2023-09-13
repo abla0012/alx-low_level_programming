@@ -4,7 +4,7 @@
  *
  * Description : prints _putchar using putchar prototype
  *
- * return : Always 0 (Success)
+ * Return: Always 0
  */
 
 
